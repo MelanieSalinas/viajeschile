@@ -10,7 +10,7 @@ $(function(){
             });
 
             $('#cambiarectangulo3').dblclick(function(){
-                $(this).css('background-color', 'red');
+                $(this).css('background-color', 'blue');
                 });
     });
     
