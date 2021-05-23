@@ -6,7 +6,7 @@ $(function(){
         });
 
         $('#cambiarectangulo2').dblclick(function(){
-            $(this).css('background-color', 'red');
+            $(this).css('background-color', 'yellow');
             });
 
             $('#cambiarectangulo3').dblclick(function(){
